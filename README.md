@@ -1,0 +1,1 @@
+Analyzed IPL data (2008–2024) using Python, SQL, and Power BI to study toss impact, venue effects, and player performance. Built interactive dashboards and applied statistical analysis to uncover match-winning trends and player consistency.
